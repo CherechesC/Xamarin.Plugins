@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calendars", "Calendars", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{728563DD-C2F9-4E5B-B330-5ADF1357B9B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.Touch", "Calendar\Plugin.Calendars\Plugin.Calendars.Touch\Plugin.Calendars.Touch.csproj", "{49D5309A-22AB-44BE-8092-012EB226E25B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.Touch", "Calendar\Plugin.Calendars.Touch\Plugin.Calendars.Touch.csproj", "{49D5309A-22AB-44BE-8092-012EB226E25B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.Droid", "Calendar\Plugin.Calendars\Plugin.Calendars.Droid\Plugin.Calendars.Droid.csproj", "{E4C634AC-3DF3-43F9-9D25-2EDCFCD43429}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.Droid", "Calendar\Plugin.Calendars.Droid\Plugin.Calendars.Droid.csproj", "{E4C634AC-3DF3-43F9-9D25-2EDCFCD43429}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars", "Calendar\Plugin.Calendars\Plugin.Calendars\Plugin.Calendars.csproj", "{5BDCC376-157C-4173-8182-7E81E135C07B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars", "Calendar\Plugin.Calendars\Plugin.Calendars.csproj", "{5BDCC376-157C-4173-8182-7E81E135C07B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.WinUniversal", "Calendar\Plugin.Calendars\Plugin.Calendars.WinUniversal\Plugin.Calendars.WinUniversal.csproj", "{2C91B0F0-C367-4EB9-B65D-9E1B8DD60405}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.Calendars.WinUniversal", "Calendar\Plugin.Calendars.WinUniversal\Plugin.Calendars.WinUniversal.csproj", "{2C91B0F0-C367-4EB9-B65D-9E1B8DD60405}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
